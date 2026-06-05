@@ -1,0 +1,3219 @@
+@media (min-width: 320px) and (max-width: 360px){
+
+
+}
+@media (min-width: 320px) and (max-width: 374px){
+
+
+}
+@media (min-width: 360px) and (max-width: 400px){
+
+
+}
+
+@media (min-width: 375px) and (max-width: 767px){
+
+}
+
+
+@media all and (min-width:320px) and (max-width: 767px) {
+.header-sec nav.navbar .container {
+    padding: 0px 20px;
+}
+.mobile-bookbtn .btn.btn-info {
+    padding: 9px 14px !important;
+    font-size: 13px;
+    height: 40px;
+    min-width: 150px !important;
+    margin-right: 5px;
+    letter-spacing: 0px;
+}
+.mobile-bookbtn .btn.btn-info:hover {
+    border: 1px solid #863C32 !important;
+    background: none !important;
+    color: #863C32 !important;
+}
+.homeheader {
+    padding-top: 66px;
+}
+.sideheader {
+    padding: 23px 18px 0px 0px;
+}
+.sidenav-list .card .card-header a.btn {
+    padding: 23px 20px 23px 25px;
+    font-size: 16px;
+    line-height: 21px;
+}
+.sidenav-list .card .card-body {
+    padding: 0px 25px 16px 25px;
+}
+.sidenav-list ul li {
+    width: 50%;
+}
+.sidenav-list ul li a {
+    font-size: 13px;
+    line-height: 23px;
+    margin-bottom: 4px;
+}
+.sidenav-list .card .card-header a.btn::after {
+    width: 18px;
+    height: 18px;
+    line-height: 18px;
+    right: 20px;
+    top: 24px;
+    font-size: 25px;
+}
+.contact-collapsed .card-body {
+    gap: 20px;
+    padding-bottom: 40px !important;
+    flex-wrap: wrap;
+}
+.contact-collapsed p {
+    font-size: 13px;
+    line-height: 21px;
+    margin: 0px 0px 3px 0px;
+}
+.btn.btn-info.btn-blue {
+    padding: 9px 15px !important;
+    font-size: 13px;
+    line-height: 18px;
+    height: 40px;
+    min-width: 153px !important;
+}
+.sideheader a.closebtn {
+    width: 25px;
+}
+.home-headermenu {
+    position: absolute;
+    right: 0px;
+    top: 15px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 25px;
+}
+.home-headermenu .mobile-bookbtn .btn.btn-info {
+    margin: 0px;
+}
+.home-headermenu .navbartoggler {
+    width: 34px;
+}
+.home-headerbrand {
+    width: 180px;
+}   
+.header-sec.navbar-fixed-top nav.navbar .navbar-brand {
+    width: 123px;
+}
+.header-sec nav.navbar .navbar-brand {
+    width: 123px;
+} 
+.mob-div .navbartoggler {
+    display: inline-block;
+    width: 34px;
+}
+.mobile-bookbtn {
+    display: inline-block;
+}
+.home-headermenu .mobile-bookbtn {
+    position: relative;
+    right: -20px;
+}
+.container {
+    padding: 0px 25px;
+}
+.sidenav {
+    width: 320px;
+}
+.hero-banner {
+    min-height: 778px;
+}
+.mainheading h1 {
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+.top-section {
+    padding: 87px 0px 87px;
+}
+.mainheading p {
+    font-size: 15px;
+    line-height: 20px;
+}
+.tour-desc {
+    padding: 38px 0px 110px;
+    text-align: center;
+}
+.tour-sec::after {
+    height: 230px;
+}
+.tour-sec .container {
+    padding: 0px 20px;
+}
+.tour-row {
+    margin: 0px -9px;
+}
+.tour-sec {
+    padding-bottom: 0px;
+}
+.tour-col {
+    width: 100%;
+    padding: 0px 9px !important;
+}
+.tour-desc h2 {
+    font-size: 24px;
+    line-height: 28px;
+    margin-bottom: 10px;
+}
+.tour-desc p {
+    font-size: 15px;
+    line-height: 20px;
+    max-width: 320px;
+    margin: 0px auto 30px;
+    padding-right: 0px;
+}
+.btn.btn-info {
+    padding: 9px 13px !important;
+    font-size: 14px;
+    line-height: 19px;
+    min-width: 150px;
+    height: 38px;
+}
+.discover-sec {
+    padding: 84px 0px 105px;
+}
+.discover-heading span {
+    display: none;
+}
+.discover-heading {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0px;
+}
+.discover-heading-desc p {
+    font-size: 15px;
+    line-height: 20px;
+}
+.discover-row {
+    padding-bottom: 38px;
+}
+.discover-sec #owl-demo1 {
+    padding: 0px 25px;
+}
+.discover-desc {
+    padding: 15px 15px 0px;
+}
+.discover-desc h3 {
+    font-size: 15px;
+    line-height: 20px;
+}
+.discover-heading h3 {
+    font-size: 25px;
+    line-height: 27px;
+    margin: 0px 0px 13px 0px;
+    border-bottom: 1px solid #2C271D;
+    padding-bottom: 15px;
+}
+.colorado-text {
+    width: 100%;
+}
+.colorado-img {
+    width: 100%;
+}
+.colorado-text-design {
+    margin-left: 0px;
+    padding: 75px 40px;
+}
+.colorado-text p {
+    font-size: 15px;
+    line-height: 20px;
+    margin-bottom: 27px;
+}
+.colorado-text h4 {
+    font-size: 25px;
+    line-height: 27px;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+}
+.colorado-slider .carousel-indicators button {
+    width: 10px;
+    height: 10px;
+    margin-right: 4px;
+    margin-left: 4px;
+}
+.colorado-slider .carousel-indicators {
+    left: 50%;
+    margin: 0px 0px 0px -27px;
+    top: 290px;
+    bottom: auto;
+    right: auto;
+}
+.moment-text-design {
+    margin-left: 0px;
+}
+.moment-img {
+    width: 100%;
+    order: 2 !important;
+}
+.moment-text {
+    width: 100%;
+    order: 1 !important;
+    padding: 84px 35px 70px;
+}
+.moment-text h4 {
+    font-size: 24px;
+    line-height: 27px;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+.moment-text p {
+    font-size: 15px;
+    line-height: 20px;
+}
+.guests-col h3 {
+    font-size: 15px;
+    line-height: 18px;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+}
+.guests-col p {
+    font-size: 25px;
+    line-height: 35px;
+    margin: 0px auto 20px;
+}
+.guests-col span {
+    font-size: 15px;
+    line-height: 20px;
+}
+.signup-text h4 {
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+}
+.signup-text p {
+    font-size: 15px;
+    line-height: 20px;
+}
+.signup-form {
+    margin-right: 0px;
+    padding-top: 30px;
+}
+.signup-form .form-group {
+    margin-bottom: 7px;
+}
+.signup-form .form-group .form-control {
+    min-height: 33px;
+    padding: 4px 15px;
+    font-size: 15px;
+}
+.signup-form-btn {
+    text-align: left;
+    padding-top: 17px;
+}
+.signup-form-btn .btn.btn-info {
+    height: 34px;
+    min-width: 118px;
+    padding: 6px 10px !important;
+    font-size: 15px;
+}
+.signup-sec {
+    padding: 68px 15px 70px;
+}
+.guests-sec {
+    padding: 56px 10px 70px;
+}
+.signup-text {
+    margin-left: 0px;
+}
+.mainfooter {
+    padding: 70px 0px 40px;
+}
+.mainfooter .container {
+    padding: 0px 40px;
+}
+.footercol-logo .footerbrand {
+    margin-left: 0px;
+    width: 250px;
+    margin: 0px auto 25px;
+    display: block;
+}
+.mainfooter .order-sm-2 {
+    order: 2 !important;
+}
+.mainfooter .order-sm-3 {
+    order: 3 !important;
+}
+.footercol-left .form-group .form-control {
+    min-height: 33px;
+    padding: 4px 15px;
+    font-size: 15px;
+}
+.footercol-left .form-group {
+    margin-bottom: 7px;
+}
+.footercol-btn .btn.btn-info {
+    font-size: 15px;
+    min-width: 170px;
+    height: 34px;
+    padding: 1px 10px !important;
+    line-height: 30px;
+}
+.footercol-left {
+    padding: 10px 0px 90px 0px;
+}
+.footercol-left.footercolcontact {
+    padding-left: 0px;
+    padding-bottom: 60px;
+}
+.footercol-left h3 {
+    font-size: 27px;
+    line-height: 37px;
+    margin-bottom: 10px;
+}
+.footercol-left p {
+    font-size: 15px;
+    line-height: 20px;
+    margin-bottom: 17px;
+}
+.copyright-center ul {
+    padding: 0px;
+}
+.copyright-left p {
+    font-size: 12px;
+    line-height: 15px;
+}
+.copyright-right p {
+    font-size: 12px;
+    line-height: 15px;
+}
+.copyright-row {
+    padding-top: 0px;
+    margin: 0px -20px;
+}
+.copyright-left p span {
+    display: none;
+}
+.copyright-row .col-md-4:nth-child(2) {
+    display: none;
+}
+.copyright-row .col-md-4 {
+    width: 50%;
+    padding: 0px;
+}
+.footercolmobile .copyright-center {
+    display: block;
+}
+.copyright-center ul li {
+    display: block;
+    margin-right: 0px;
+}
+.footercolmobile {
+    display: flex;
+    justify-content: space-between;
+}
+.copyright-center ul li a {
+    font-size: 15px;
+    line-height: 50px;
+}
+/*rooms*/
+.hero-banner.rooms-banner {
+    min-height: 600px;
+    margin-top: 79px;
+}
+.top-section.rooms-top-section {
+    padding: 70px 0px 0px;
+}
+.rooms-top-section .mainheading h1 {
+    margin-bottom: 34px;
+}
+.rooms-top-section .mainheading {
+    padding-bottom: 80px;
+}
+.roomsform-col .form-select {
+    height: 51px;
+    font-size: 19px;
+}
+.rooms-formrow {
+    margin: 0px auto 80px;
+    gap: 27px;
+    flex-wrap: wrap;
+}
+.room-sec .container {
+    padding: 0px 20px;
+}
+.rooms-form h2 {
+    font-size: 28px;
+    line-height: 46px;
+    margin-bottom: 10px;
+}
+.rooms-form p {
+    font-size: 15px;
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+.room-sec.container {
+    padding: 0px 13px;
+}
+.townhomes-heading h2 {
+    font-size: 28px;
+    line-height: 34px;
+    margin-bottom: 7px;
+}
+.townhomes-heading p {
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 23px;
+}
+.room-desc {
+    padding: 10px;
+    padding-left: 0px;
+}
+.room-desc h3 {
+    font-size: 20px;
+    line-height: 23px;
+    margin-bottom: 10px;
+}
+.room-desc h3 span img.img-fluid {
+    margin-left: 4px;
+    width: 16px;
+}
+.room-desc p {
+    font-size: 15px;
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+.room-card {
+    padding-bottom: 45px;
+}
+.lightbg {
+    display: none;
+}
+.room-sec {
+    padding-bottom: 60px;
+}
+.room-sec.room-secp0 {
+    padding-bottom: 0px;
+}
+.townhomes-sec#townhomes {
+    padding-top: 60px;
+}
+.whitebg {
+    height: 260px;
+}
+.townhomes-sec {
+    padding-bottom: 90px;
+}
+.discover-sec #owl-demo1 .owl-dots {
+    display: block !important;
+    text-align: center;
+    margin-top: 10px;
+}
+.discover-sec #owl-demo1 .owl-dots .owl-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    margin: 0px 3px;
+    background: rgb(126 125 125 / 41%);
+}
+.discover-sec #owl-demo1 .owl-dots .owl-dot.active {
+    background: rgb(126 125 125);
+}
+/*unit*/
+.top-section.unit-top-section {
+    padding: 70px 0px 70px;
+}
+.unit-top-section .mainheading h1 {
+    margin-bottom: 40px;
+}
+.unit-top-section .mainheading p {
+    margin-bottom: 20px;
+}
+.unit-top-section .mainheading .btn.btn-info {
+    min-width: 196px;
+    margin-top: 10px;
+}
+.unit-topicon span img.img-fluid {
+    width: 30px;
+    margin: 0px 4px;
+}
+.amenitiessec .moment-text h4 {
+    padding-right: 55px;
+}
+.amenitiessec ul li {
+    font-size: 15px;
+    line-height: 20px;
+    padding-bottom: 18px;
+}
+.amenitiessec .moment-text-design {
+    max-width: 302px;
+    margin: 0px auto;
+}
+.amenitiessec .moment-text {
+    padding: 66px 35px 40px;
+}
+.galleryslider-heading h2 {
+    font-size: 28px;
+    line-height: 34px;
+    margin-bottom: 10px;
+}
+.galleryslider-heading p {
+    font-size: 15px;
+    line-height: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+    max-width: 300px;
+    margin: 0px auto;
+}
+.galleryslider-heading {
+    margin: 0px auto 70px;
+}
+.desktopimg {
+    display: none;
+}
+.ipadimg {
+    display: inline-block;
+}
+.galleryslider {
+    padding: 100px 0px 50px;
+}
+.view-mapsecimg {
+    text-align: center;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.view-mapsec {
+    padding: 50px 0px 100px;
+}
+/*about*/
+.top-section.about-top-section {
+    padding: 35px 0px 90px;
+}
+.ourproperty-sec h2 {
+    font-size: 25px;
+    line-height: 34px;
+    width: 300px;
+    margin: 0px auto 26px;
+}
+.ourproperty-sec .container {
+    padding: 0px;
+}
+.ourproperty-sec::after {
+    height: 315px;
+}
+.ourproperty-sec {
+    padding-bottom: 46px;
+}
+.historic-text {
+    width: 100%;
+}
+.historic-img {
+    width: 100%;
+}
+.historic-text-design {
+    margin-left: 0px;
+    padding: 100px 35px 90px;
+}
+.historic-text-design h4 {
+    font-size: 24px;
+    line-height: 27px;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+.historic-text-design p {
+    font-size: 15px;
+    line-height: 20px;
+}
+.ourproperty-sec .row {
+    margin: 0px;
+}
+.ourproperty-sec .col-md-12 {
+    padding: 0px;
+}
+/*amenities*/
+.top-section.rooms-top-section.amenities-top-section {
+    padding: 50px 0px 0px;
+}
+.rooms-top-section.amenities-top-section .mainheading h1 {
+    margin-bottom: 20px;
+}
+.rooms-top-section.amenities-top-section .mainheading {
+    padding-bottom: 100px;
+}
+.amenities-sec .darkbg {
+    height: 174px;
+}
+.amenities-desc {
+    padding: 10px;
+    padding-left: 0px;
+}
+.amenities-desc h3 {
+    font-size: 20px;
+    line-height: 23px;
+    margin-bottom: 10px;
+    height: auto;
+}
+.amenities-desc.amenitieslast-col h3 {
+    margin-bottom: 10px;
+}
+.amenities-desc p {
+    font-size: 15px;
+    line-height: 20px;
+}
+.amenities-card {
+    padding-bottom: 70px;
+}
+.room-sec.amenities-sec {
+    padding-bottom: 40px;
+}
+/*gallery*/
+.gallery-sec .nav-tabs {
+    margin-bottom: 80px;
+    padding-top: 0px;
+    gap: 22px;
+}
+.gallery-sec .nav-tabs .nav-link {
+    min-width: 188px;
+    font-size: 14px;
+    height: 38px;
+    padding: 6px 20px;
+    margin: 0px 0px;
+}
+.collage-container li:nth-child(2) {
+    width: 100%;
+}
+.collage-container li:nth-child(1) {
+    width: 100%;
+}
+.collage-container li:nth-child(3) {
+    width: 100%;
+}
+.collage-item {
+    margin-bottom: 18px;
+}
+.collage-container li {
+    padding: 0px 9px;
+}
+.collage-container {
+    margin: 0px -9px;
+}
+.gallery-sec .container {
+    padding: 0px 20px;
+}
+.gallery-sec {
+    padding: 0px 0px 30px 0px;
+}
+.gallery-sec::after {
+    height: 400px;
+}
+/*contact*/
+.contact-form {
+    width: 100%;
+    padding-left: 0px;
+}
+.contact-info {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 60px;
+}
+.contact-top-section .mainheading h1 {
+    margin-bottom: 20px;
+}
+.contact-info p {
+    font-size: 15px;
+    line-height: 20px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.contact-form .form-group .form-control {
+    font-size: 17px;
+    padding: 10px 27px;
+    border-radius: 30px;
+    min-height: 54px;
+}
+.contact-form .form-group {
+    margin-bottom: 20px;
+}
+.contact-form-btn .btn.btn-info {
+    min-width: 185px;
+    padding: 7px 15px 9px !important;
+}
+.contact-form-btn {
+    padding-top: 0px;
+}
+.top-section.contact-top-section {
+    padding: 60px 0px 60px;
+}
+.map-sec .container {
+    padding: 0px;
+}
+.map-sec .row {
+    margin: 0px;
+}
+.map-sec .col-md-12 {
+    padding: 0px;
+}
+.mapbox img.img-fluid {
+    height: 600px;
+    object-fit: cover;
+}
+.map-sec::after{
+    display: none;
+}
+.map-sec {
+    background: #fff;
+}
+/*pollicies*/
+.faqdesign .card {
+    border-bottom: 1px solid #2C271D;
+}
+.faqdesign #accordion {
+    border-top: 1px solid #2C271D;
+}
+.faqdesign .card .card-header a.btn::after {
+    width: 24px;
+    height: 22px;
+    right: 5px;
+    top: 50%;
+    font-size: 23px;
+    margin-top: -11px;
+}
+.faqdesign .card .card-header a.btn {
+    padding: 11px 34px 11px 0px;
+    font-size: 12px;
+            position: relative;
+}
+.faqdesign .card .card-body {
+    padding: 0px 0px 12px 0px;
+    font-size: 12px;
+    line-height: 14px;
+}
+.top-section.policies-top-section {
+    padding: 60px 0px 100px 0px;
+}
+.policies-top-section .mainheading {
+    margin-bottom: 50px;
+}
+.discover-sec .discover-item {
+    padding-right: 0px;
+}
+.m-7 {
+    margin: 0px -9px;
+}
+.p-7 {
+    padding: 0px 9px !important;
+}
+.exploremoab-sec .btn.btn-info {
+    margin-top: 20px;
+}
+}
+
+/*320-767 End*/
+
+
+
+
+
+
+@media all and (min-width:768px) and (max-width:1199px) {
+.mobile-bookbtn .btn.btn-info:hover {
+    border: 1px solid #863C32 !important;
+    background: none !important;
+    color: #863C32 !important;
+}  
+.container {
+    padding: 0px 45px;
+}    
+.home-headermenu {
+    position: absolute;
+    right: 0px;
+    top: 38px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 25px;
+}
+.homeheader {
+    top: 0px;
+    padding-top: 48px;
+}
+.home-headermenu .navbartoggler {
+    width: 56px;
+}
+.mobile-bookbtn {
+    display: inline-block;
+}
+.home-headermenu .mobile-bookbtn .btn.btn-info {
+    margin: 0px;
+}
+.home-headerbrand {
+    width: 262px;
+    padding-top: 28px;
+}
+.mobile-bookbtn .btn.btn-info {
+    padding: 24px 23px !important;
+    font-size: 19px;
+    line-height: 26px;
+    height: 77px;
+    min-width: 250px !important;
+}
+.mob-div .mobile-bookbtn .btn.btn-info {
+    padding: 14px 15px !important;
+    font-size: 23px;
+    line-height: 34px;
+    height: 65px;
+    min-width: 315px !important;
+    margin-right: 15px;
+}
+.mob-div .navbartoggler {
+    display: inline-block;
+    width: 56px;
+}
+.mainheading h1 {
+    font-size: 40px;
+    line-height: 50px;
+    max-width: 600px;
+    margin: 0px auto 20px;
+}
+.mainheading h1 br {
+    display: none;
+}
+.top-section {
+    padding: 150px 0px 107px;
+}
+.tour-col {
+    width: 100%;
+    padding: 0px 28px !important;
+}
+.tour-desc {
+    padding: 52px 95px 160px;
+    text-align: center;
+}
+.tour-desc p {
+    padding-right: 0px;
+}
+.tour-sec {
+    padding-bottom: 0px;
+}
+.discover-sec {
+    padding: 123px 0px 85px;
+}
+.discover-row .col-md-6 {
+    width: 100%;
+}
+.discover-heading span {
+    display: none;
+}
+.discover-heading h3 {
+    margin-bottom: 16px;
+    border-bottom: 1px solid #2C271D;
+    padding-bottom: 7px;
+}
+.discover-row {
+    padding-bottom: 77px;
+}
+.discover-desc {
+    padding: 23px 25px 0px;
+}
+.colorado-text {
+    width: 100%;
+}
+.colorado-img {
+    width: 100%;
+}
+.colorado-text-design {
+    max-width: 100%;
+    margin-left: 0px;
+    padding: 200px 100px;
+}
+.colorado-slider .carousel-indicators {
+    left: 50%;
+    top: 600px;
+    right: auto;
+    margin-left: -38px;
+}
+.moment-img {
+    width: 100%;
+    order: 2 !important;
+}
+.moment-text {
+    width: 100%;
+    order: 1 !important;
+    padding: 192px 0px;
+}
+.guests-sec {
+    padding: 74px 0px 130px;
+}
+.guests-col h3 {
+    font-size: 29px;
+    line-height: 37px;
+    margin-bottom: 23px;
+    padding-bottom: 22px;
+}
+.guests-col p {
+    font-size: 45px;
+    line-height: 55px;
+    margin: 0px auto 50px;
+}
+.guests-col span {
+    font-size: 25px;
+    line-height: 30px;
+}
+.signup-sec .col-md-6 {
+    width: 100%;
+}
+.signup-text {
+    max-width: 650px;
+    margin-left: 40px;
+    padding-right: 20px;
+}
+.signup-form {
+    max-width: 640px;
+    padding-top: 65px;
+    margin: 0px auto;
+}
+.signup-sec {
+    padding: 234px 0px 251px;
+}
+.signup-form-btn {
+    text-align: left;
+}
+.footercol-logo .footerbrand {
+    display: inline-block;
+    margin: 0px auto 100px;
+}
+.footercol-logo .footerbrand img.img-fluid {
+    width: 480px;
+}
+.footercol-left.footercolcontact {
+    padding-left: 0px;
+    margin-left: -45px;
+}
+.copyright-row .col-md-4:nth-child(2) {
+    display: none;
+}
+.copyright-row .col-md-4 {
+    width: 100%;
+}
+.copyright-center ul li a {
+    font-size: 20px;
+    line-height: 60px;
+}
+.copyright-row {
+    padding-top: 190px;
+    text-align: center;
+}
+.copyright-right p {
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+}
+.footercolmobile .copyright-center {
+    display: block;
+}
+.footercolmobile .copyright-center ul {
+    padding: 63px 0px 0px 0px;
+}
+.footercol-logo {
+    text-align: center;
+}
+.copyright-center ul li {
+    display: block;
+    margin-right: 0px;
+}
+.footercolmobile {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 190px;
+}
+.mainfooter {
+    padding: 110px 90px 50px;
+}
+/*room*/
+.rooms-top-section .mainheading {
+    padding-bottom: 120px;
+}
+.rooms-formrow {
+    margin: 0px auto 230px;
+    display: flex;
+    gap: 32px;
+    max-width: 600px;
+    flex-wrap: wrap;
+}
+.rooms-form p {
+    margin-bottom: 60px;
+}
+.rooms-form h2 {
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+.room-sec .col-md-4 {
+    width: 100%;
+    padding: 0px 28px !important;
+}
+.room-desc h3 {
+    font-size: 30px;
+    line-height: 34px;
+    margin-bottom: 16px;
+}
+.room-desc {
+    padding: 24px;
+    padding-left: 0px;
+}
+.room-card {
+    padding-bottom: 90px;
+}
+.lightbg {
+    display: none;
+}
+.room-sec {
+    padding-bottom: 90px;
+}
+.room-sec.room-secp0 {
+    padding-bottom: 0px;
+}
+.townhomes-sec#townhomes {
+    padding-top: 90px;
+}
+.townhomes-heading h2 {
+    font-size: 50px;
+}
+.townhomes-heading p {
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+.townhomes-sec .col-md-4 {
+    width: 100%;
+}
+.townhomes-sec {
+    padding-bottom: 100px;
+}
+/*unit*/
+.top-section.unit-top-section {
+    padding: 56px 0px 115px;
+}
+.amenitiessec .moment-text {
+    padding: 152px 0px;
+}
+.amenitiessec .moment-text h4 {
+    padding-right: 211px;
+}
+.galleryslider-heading {
+    margin: 0px auto 80px;
+}
+.galleryslider {
+    padding: 100px 0px 140px;
+}
+.desktopimg {
+    display: none;
+}
+.ipadimg {
+    display: inline-block;
+}
+.view-mapsecimg {
+    text-align: center;
+    padding-right: 0px;
+}
+/*about*/
+.top-section.about-top-section {
+    padding: 60px 0px 90px;
+}
+.ourproperty-sec .container{
+    padding: 0px;
+}
+.ourproperty-sec .row {
+    margin: 0px;
+}
+.ourproperty-sec .col-md-12 {
+    padding: 0px;
+}
+.ourproperty-sec::after {
+    height: 515px;
+}
+.ourproperty-sec {
+    padding-bottom: 46px;
+}
+.historic-text {
+    width: 100%;
+    padding: 230px 0px;
+}
+.historic-img {
+    width: 100%;
+}
+.historic-text-design {
+    max-width: 630px;
+    margin: 0px auto;
+}
+/*amenities*/
+.top-section.rooms-top-section.amenities-top-section {
+    padding: 70px 0px 0px;
+}
+.amenities-sec .darkbg {
+    height: 430px;
+}
+.amenities-desc.amenitieslast-col h3 {
+    margin-bottom: 23px;
+}
+.amenities-desc h3 {
+    height: auto;
+}
+/*gallery*/
+.gallery-sec .nav-tabs {
+    margin-bottom: 60px;
+    padding-top: 0px;
+    gap: 45px;
+}
+.collage-container li:nth-child(2) {
+    width: 100%;
+    padding: 0px 28px;
+}
+.collage-container li:nth-child(1) {
+    width: 100%;
+    padding: 0px 28px;
+}
+.collage-container li:nth-child(3) {
+    width: 100%;
+    padding: 0px 28px;
+}
+.collage-item {
+    margin-bottom: 50px;
+}
+.gallery-sec::after {
+    height: 1500px;
+}
+/*contact*/
+.contact-form {
+    width: 100%;
+    padding-left: 0px;
+}
+.contact-info {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    text-align: center;
+    padding-bottom: 150px;
+}
+.contact-top-section .mainheading h1 {
+    margin-bottom: 25px;
+}
+.top-section.contact-top-section {
+    padding: 60px 0px 180px;
+}
+.map-sec .container {
+    padding: 0px;
+}
+.map-sec .row {
+    margin: 0px;
+}
+.map-sec .col-md-12 {
+    padding: 0px;
+}
+.mapbox img.img-fluid {
+    height: 1000px;
+    object-fit: cover;
+}
+.map-sec::after{
+    display: none;
+}
+.map-sec {
+    background: #fff;
+    padding-bottom: 90px;
+}
+/*polices*/
+.faqdesign .card .card-header a.btn {
+    padding: 15px 46px 15px 0px;
+    font-size: 15px;
+}
+.faqdesign .card .card-header a.btn::after {
+    width: 22px;
+    height: 22px;
+    right: 10px;
+    top: 16px;
+    font-size: 30px;
+}
+.faqdesign .card .card-body {
+    padding: 0px 0px 16px 0px;
+    font-size: 14px;
+    line-height: 22px;
+}
+.discover-sec .discover-item {
+    padding-right: 0px;
+}
+.discover-heading {
+    margin-left: 0px;
+}
+.exploremoab-sec .btn.btn-info {
+    margin-top: 30px;
+}
+}
+
+/*768-1199 End*/
+
+@media all and (min-width:768px) and (max-width: 991px) {
+
+}
+
+@media all and (min-width:992px) and (max-width: 1024px) {
+
+}
+
+/*992-1024 End*/
+
+
+@media all and (min-width:768px) and (max-width: 1024px) {
+
+}
+
+/*768-1024 End*/
+
+@media all and (min-width:1025px) and (max-width: 1199px) {
+
+}
+/*1025-1199 End*/
+
+@media all and (min-width:1200px) and (max-width: 1280px) {
+
+}
+/*1200-1280 End*/
+
+
+@media all and (min-width:1200px) and (max-width:1399px) {
+.container {
+    padding: 0px 30px;
+}      
+.hero-banner {
+    min-height: 900px;
+}
+.home-headerbrand {
+    width: 250px;
+}
+.home-headermenu {
+    right: 52px;
+    top: 40px;
+}
+.homeheader {
+    padding-top: 35px;
+}
+.sidenav {
+    width: 520px;
+}
+.sideheader {
+    padding: 34px 37px 0px 0px;
+}
+.sideheader a.closebtn {
+    width: 40px;
+}
+.sidenav-list .card .card-header a.btn {
+    padding: 25px 60px 25px 40px;
+    font-size: 20px;
+    line-height: 26px;
+}
+.sidenav-list .card .card-header a.btn::after {
+    line-height: 18px;
+    right: 47px;
+    top: 26px;
+    font-size: 34px;
+}
+.sidenav-list ul li a {
+    font-size: 14px;
+    line-height: 14px;
+    margin-bottom: 18px;
+}
+.sidenav-list .card .card-body {
+    padding: 0px 20px 10px 40px;
+}
+.contact-collapsed p {
+    font-size: 15px;
+    line-height: 25px;
+}
+.header-sec.navbar-fixed-top nav.navbar .navbar-brand {
+    width: 170px;
+}
+.header-sec nav.navbar .navbar-brand {
+    width: 170px;
+}
+.header-sec.navbar-fixed-top nav.navbar {
+    padding: 12px 0px;
+}
+.header-sec.innerheader-fixed-top nav.navbar {
+    padding: 12px 0px;
+}
+.header-sec nav.navbar {
+    padding: 12px 0px;
+}
+.hero-banner.rooms-banner {
+    margin-top: 89px;
+}
+.dasktopbookbtn a.nav-link {
+    padding: 7px 22px !important;
+    font-size: 17px;
+    line-height: 34px;
+    min-width: 230px;
+    height: 46px;
+    margin: 0px 40px 0px 20px !important;
+}
+.header-sec nav.navbar .navbar-nav li.nav-item a.nav-link {
+    font-size: 17px;
+    padding: 9px 0px;
+    margin: 0px 26px;
+    line-height: 28px;
+}
+.nav-item .navbartoggler {
+    width: 45px;
+}
+.navbartoggler {
+    width: 45px;
+    display: inline-block;
+}
+.btn.btn-info.btn-blue {
+    padding: 7px 11px !important;
+    font-size: 15px;
+    line-height: 29px;
+    min-width: 209px;
+    height: 45px;
+}
+.contact-collapsed .card-body {
+    gap: 24px;
+    padding-bottom: 60px !important;
+}
+.top-section {
+    padding: 90px 0px 90px;
+}
+.mainheading {
+    max-width: 912px;
+}
+.mainheading h1 {
+    font-size: 32px;
+    line-height: 41px;
+}
+.mainheading p {
+    font-size: 14px;
+    line-height: 24px;
+}
+.tour-col {
+    padding: 0px 14px;
+}
+.tour-desc {
+    padding: 35px 70px 35px 0px;
+}
+.tour-desc h2 {
+    font-size: 28px;
+    line-height: 23px;
+    margin-bottom: 14px;
+}
+.tour-row {
+    margin: 0px -12px;
+}
+.tour-desc p {
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 22px;
+    padding-right: 130px;
+}
+.btn.btn-info {
+    padding: 6px 11px !important;
+    font-size: 15px;
+    line-height: 24px;
+    min-width: 158px;
+    height: 40px
+}
+.tour-sec {
+    padding-bottom: 47px;
+}
+.discover-sec {
+    padding: 110px 0px 90px;
+}
+.discover-heading {
+    padding-left: 0px;
+    padding-right: 42px;
+    margin-left: -3px;
+}
+.discover-heading h3 {
+    font-size: 32px;
+    line-height: 48px;
+}
+.discover-heading-desc p {
+    font-size: 14px;
+    line-height: 24px;
+    max-width: 570px;
+}
+.discover-sec #owl-demo1 {
+    padding-left: 30px;
+}
+.discover-row {
+    padding-bottom: 50px;
+}
+.discover-heading span {
+    width: 140px;
+}
+.discover-desc h3 {
+    font-size: 15px;
+    line-height: 23px;
+}
+.colorado-text-design {
+    margin-left: 70px;
+    padding-right: 70px;
+}
+.colorado-text h4 {
+    font-size: 28px;
+    line-height: 35px;
+    margin-bottom: 15px;
+    padding-bottom: 16px;
+}
+.colorado-text p {
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 26px;
+}
+.colorado-slider .carousel-indicators button {
+    width: 10px;
+    height: 10px;
+    margin-right: 6px;
+}
+.colorado-slider .carousel-indicators {
+    left: 70px;
+    top: 232px;
+}
+.moment-text-design {
+    margin-left: 70px;
+    padding-right: 70px;
+}
+.moment-text h4 {
+    font-size: 28px;
+    line-height: 33px;
+    margin-bottom: 15px;
+    padding-bottom: 16px;
+}
+.moment-text p {
+    font-size: 14px;
+    line-height: 24px;
+}
+.guests-sec {
+    padding: 130px 0px 80px;
+}
+.guests-col h3 {
+    font-size: 20px;
+    line-height: 28px;
+    margin-bottom: 12px;
+    padding-bottom: 15px;
+}
+.guests-col p {
+    font-size: 28px;
+    line-height: 46px;
+    max-width: 794px;
+    margin: 0px auto 40px;
+}
+.guests-col span {
+    font-size: 16px;
+    line-height: 23px;
+}
+.signup-text h4 {
+    font-size: 28px;
+    line-height: 37px;
+    margin-bottom: 15px;
+    padding-bottom: 16px;
+    padding-right: 50px;
+}
+.signup-text p {
+    font-size: 14px;
+    line-height: 24px;
+}
+.signup-form .form-group .form-control {
+    min-height: 47px;
+    padding: 10px 23px;
+    font-size: 15px;
+}
+.signup-text {
+    max-width: 450px;
+    margin-left: 70px;
+}
+.signup-form {
+    max-width: 485px;
+    margin-right: 41px;
+    padding-top: 15px;
+}
+.signup-form-btn {
+    padding-top: 5px;
+}
+.signup-form .form-group {
+    margin-bottom: 8px;
+}
+.signup-form-btn .btn.btn-info {
+    height: 47px;
+    min-width: 182px;
+    padding: 3px 10px !important;
+    font-size: 15px;
+}
+.signup-sec {
+    padding: 80px 0px 65px;
+}
+.mainfooter {
+    padding: 100px 40px 30px;
+}
+.footercol-logo .footerbrand {
+    margin-left: 0px;
+    width: 200px;
+}
+.footercol-left .form-group .form-control {
+    min-height: 47px;
+    padding: 10px 23px;
+    font-size: 15px;
+}
+.footercol-left .form-group {
+    margin-bottom: 8px;
+}
+.footercol-btn .btn.btn-info {
+    height: 47px;
+    min-width: 190px;
+    padding: 3px 10px !important;
+    font-size: 15px;
+}
+.footercol-left .form-group textarea.form-control {
+    height: 82px;
+}
+.footercol-left.footercolcontact {
+    padding-left: 25px;
+}
+.footercol-left p {
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 11px;
+}
+.footercol-left h3 {
+    font-size: 28px;
+    line-height: 42px;
+    margin-bottom: 11px;
+}
+.copyright-row {
+    padding-top: 108px;
+}
+.copyright-left p {
+    font-size: 14px;
+    line-height: 24px;
+}
+.copyright-center ul li a {
+    font-size: 14px;
+    line-height: 24px;
+}
+.copyright-right p {
+    font-size: 14px;
+    line-height: 24px;
+}
+.copyright-center ul li {
+    margin-right: 24px;
+}
+.copyright-center ul {
+    padding: 0px 0px 0px 30px;
+}
+/*room*/
+.rooms-top-section .mainheading {
+    padding-bottom: 120px;
+}
+.roomsform-col .form-select {
+    height: 50px;
+    font-size: 17px;
+    padding: 9px 35px;
+}
+.rooms-formrow {
+    margin: 0px auto 36px;
+    gap: 20px;
+    max-width: 1064px;
+}
+.rooms-form p {
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 42px;
+}
+.rooms-form h2 {
+    font-size: 30px;
+    line-height: 29px;
+    margin-bottom: 24px;
+}
+.darkbg {
+    height: 133px;
+}
+.lightbg {
+    top: 130px;
+    height: 164px;
+}
+.room-desc {
+    padding: 15px;
+    padding-left: 0px;
+}
+.room-desc h3 {
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 6px;
+}
+.room-desc h3 span img.img-fluid {
+    margin-left: 5px;
+    width: 17px;
+}
+.room-desc p {
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 30px;
+}
+.room-sec {
+    padding-bottom: 90px;
+}
+.room-sec.room-secp0 {
+    padding-bottom: 0px;
+}
+.townhomes-sec#townhomes {
+    padding-top: 90px;
+}
+.townhomes-heading h2 {
+    font-size: 30px;
+    line-height: 32px;
+    margin-bottom: 15px;
+}
+.townhomes-heading p {
+    font-size: 18px;
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+.townhomes-sec {
+    padding-bottom: 134px;
+}
+/*unit*/
+.unit-topicon span img.img-fluid {
+    width: 40px;
+}
+.unit-top-section .mainheading p {
+    margin-bottom: 14px;
+}
+.top-section.unit-top-section {
+    padding: 46px 0px 106px;
+}
+.amenitiessec ul li {
+    font-size: 14px;
+    line-height: 18px;
+    padding-bottom: 19px;
+}
+.amenitiessec .moment-text h4 {
+    padding-right: 160px;
+}
+.amenitiessec .moment-text-design {
+    max-width: 340px;
+    margin: 0px auto;
+    padding: 0px;
+}
+.galleryslider-heading {
+    max-width: 915px;
+    margin: 0px auto 40px;
+}
+.galleryslider-heading h2 {
+    font-size: 30px;
+    line-height: 29px;
+    margin-bottom: 13px;
+}
+.galleryslider-heading p {
+    font-size: 14px;
+    line-height: 24px;
+}
+.galleryslider {
+    padding: 80px 0px 100px;
+}
+.view-mapsecimg {
+    padding-right: 10px;
+    padding-left: 60px;
+}
+.view-mapsec {
+    padding: 50px 0px 150px;
+}
+/*about*/
+.top-section.about-top-section {
+    padding: 40px 0px 50px;
+}
+.ourproperty-sec h2 {
+    font-size: 30px;
+    line-height: 32px;
+    margin-bottom: 34px;
+}
+.ourproperty-sec .col-md-12 {
+    max-width: 1150px;
+    margin: 0px auto;
+}
+.ourproperty-sec {
+    padding-bottom: 100px;
+}
+.ourproperty-sec::after {
+    height: 450px;
+}
+.historic-text-design h4 {
+    font-size: 28px;
+    line-height: 33px;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+.historic-text-design p {
+    font-size: 14px;
+    line-height: 24px;
+}
+.historic-text-design {
+    max-width: 440px;
+    margin: 0px auto;
+}
+/*amenities*/
+.top-section.rooms-top-section.amenities-top-section {
+    padding: 60px 0px 0px;
+}
+.rooms-top-section.amenities-top-section .mainheading {
+    padding-bottom: 100px;
+}
+.amenities-desc {
+    padding: 20px 15px;
+    padding-left: 0px;
+}
+.amenities-desc p {
+    font-size: 14px;
+    line-height: 24px;
+    padding-right: 30px;
+}
+.amenities-desc h3 {
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 9px;
+    height: 45px;
+}
+.amenities-desc.amenitieslast-col h3 {
+    margin: 0px;
+    height: 37px;
+}
+.amenities-card {
+    padding-bottom: 70px;
+}
+.amenities-sec .darkbg {
+    height: 226px;
+}
+/*exploremoab*/
+.amenities-sec.exploremoab-sec .lightbg {
+    top: 191px;
+}
+/*gallery*/
+.gallery-sec .nav-tabs .nav-link {
+    min-width: 230px;
+    font-size: 16px;
+    height: 46px;
+    padding: 8px 20px;
+    margin: 0px 10px;
+}
+.gallery-sec .nav-tabs {
+    margin-bottom: 60px;
+    padding-top: 20px;
+}
+.collage-container {
+    margin: 0px -12px;
+}
+.collage-container li {
+    padding: 0px 14px;
+}
+.collage-item {
+    margin-bottom: 28px;
+}
+.gallery-sec::after {
+    height: 700px;
+}
+.gallery-sec {
+    padding: 0px 0px 40px 0px;
+}
+/*contact*/
+.contact-top-section .mainheading h1 {
+    margin-bottom: 50px;
+}
+.contact-info p {
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 12px;
+}
+.contact-form .form-group .form-control {
+    font-size: 15px;
+    padding: 7px 35px;
+    min-height: 50px;
+}
+.contact-form .form-group {
+    margin-bottom: 18px;
+}
+.contact-form-btn .btn.btn-info {
+    min-width: 215px;
+    padding: 9px 15px 9px !important;
+    height: 48px;
+}
+.contact-form-btn {
+    padding-top: 0px;
+}
+.contactrow {
+    max-width: 1075px;
+}
+.top-section.contact-top-section {
+    padding: 50px 0px 90px;
+}
+.map-sec {
+    padding-bottom: 90px;
+}
+.map-sec::after {
+    height: 190px;
+}
+/*policies*/
+.faqdesign #accordion {
+    border-top: 1px solid #2C271D;
+}
+.faqdesign .card {
+    border-bottom: 1px solid #2C271D;
+}
+.faqdesign .card .card-header a.btn {
+    padding: 18px 50px 18px 0px;
+    font-size: 20px;
+}
+.faqdesign .card .card-header a.btn::after {
+    width: 24px;
+    height: 25px;
+    right: 10px;
+    top: 23px;
+    font-size: 28px;
+}
+.faqdesign .card .card-body {
+    padding: 0px 0px 20px 0px;
+    font-size: 18px;
+    line-height: 26px;
+}
+.faqdesign {
+    max-width: 1155px;
+}
+.top-section.policies-top-section {
+    padding: 60px 0px 100px 0px;
+}
+.discover-sec .discover-item {
+    padding-right: 8px;
+}
+.m-7 {
+    margin: 0px -12px;
+}
+.p-7 {
+    padding: 0px 14px;
+}
+.exploremoab-sec .btn.btn-info {
+    margin-top: 22px;
+}
+}
+
+
+/*1200-1399 End*/
+
+
+
+
+@media (min-width: 1492px) and (max-width: 1599px){
+
+}
+/*1492-1599 End*/
+
+@media all and (min-width:1400px) and (max-width:1599px) { 
+.container {
+    padding: 0px 40px;
+}      
+.hero-banner {
+    min-height: 950px;
+}
+.home-headerbrand {
+    width: 250px;
+}
+.home-headermenu {
+    right: 52px;
+    top: 45px;
+}
+.homeheader {
+    padding-top: 45px;
+}
+.sidenav {
+    width: 600px;
+}
+.sideheader {
+    padding: 34px 34px 0px 0px;
+}
+.sideheader a.closebtn {
+    width: 45px;
+}
+.sidenav-list .card .card-header a.btn {
+    padding: 25px 70px 25px 50px;
+    font-size: 24px;
+    line-height: 28px;
+}
+.sidenav-list .card .card-header a.btn::after {
+    line-height: 18px;
+    right: 49px;
+    top: 27px;
+    font-size: 34px;
+}
+.sidenav-list ul li a {
+    font-size: 16px;
+    line-height: 15px;
+    margin-bottom: 19px;
+}
+.sidenav-list .card .card-body {
+    padding: 0px 24px 15px 52px;
+}
+.contact-collapsed p {
+    font-size: 17px;
+    line-height: 28px;
+}
+.header-sec.navbar-fixed-top nav.navbar .navbar-brand {
+    width: 200px;
+}
+.header-sec nav.navbar .navbar-brand {
+    width: 200px;
+}
+.header-sec nav.navbar {
+    padding: 14px 0px;
+}
+.header-sec.navbar-fixed-top nav.navbar {
+    padding: 14px 0px;
+}
+.header-sec.innerheader-fixed-top nav.navbar {
+    padding: 14px 0px;
+}
+.hero-banner.rooms-banner {
+    margin-top: 103px;
+}
+.dasktopbookbtn a.nav-link {
+    padding: 12px 25px !important;
+    font-size: 20px;
+    line-height: 34px;
+    min-width: 265px;
+    height: 54px;
+    margin: 0px 40px 0px 25px !important;
+}
+.header-sec nav.navbar .navbar-nav li.nav-item a.nav-link {
+    font-size: 20px;
+    padding: 14px 0px;
+    margin: 0px 20px;
+    line-height: 28px;
+}
+.nav-item .navbartoggler {
+    width: 45px;
+}
+.navbartoggler {
+    width: 45px;
+    display: inline-block;
+}
+.btn.btn-info.btn-blue {
+    padding: 10px 15px !important;
+    font-size: 17px;
+    line-height: 34px;
+    min-width: 247px;
+    height: 54px;
+}
+.contact-collapsed .card-body {
+    gap: 37px;
+    padding-bottom: 60px !important;
+}
+.top-section {
+    padding: 90px 0px 90px;
+}
+.mainheading {
+    max-width: 1045px;
+}
+.mainheading h1 {
+    font-size: 33px;
+    line-height: 40px;
+}
+.mainheading p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.tour-col {
+    padding: 0px 14px;
+}
+.tour-desc {
+    padding: 45px 85px 45px 0px;
+}
+.tour-desc h2 {
+    font-size: 30px;
+    line-height: 24px;
+    margin-bottom: 15px;
+}
+.tour-desc p {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 26px;
+    padding-right: 40px;
+}
+.btn.btn-info {
+    padding: 8px 15px !important;
+    font-size: 16px;
+    line-height: 27px;
+    min-width: 185px;
+    height: 45px;
+}
+.tour-sec {
+    padding-bottom: 47px;
+}
+.discover-sec {
+    padding: 110px 0px 90px;
+}
+.discover-heading {
+    padding-left: 0px;
+    padding-right: 43px;
+    margin-left: -12px;
+}
+.discover-heading h3 {
+    font-size: 34px;
+    line-height: 48px;
+}
+.discover-heading-desc p {
+    font-size: 16px;
+    line-height: 26px;
+    max-width: 610px;
+}
+.discover-sec #owl-demo1 {
+    padding-left: 30px;
+}
+.discover-row {
+    padding-bottom: 50px;
+}
+.discover-heading span {
+    width: 140px;
+}
+.discover-desc h3 {
+    font-size: 17px;
+    line-height: 23px;
+}
+.colorado-text-design {
+    margin-left: 70px;
+    padding-right: 70px;
+}
+.colorado-text h4 {
+    font-size: 32px;
+    line-height: 34px;
+    margin-bottom: 23px;
+    padding-bottom: 23px;
+}
+.colorado-text p {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 26px;
+}
+.colorado-slider .carousel-indicators {
+    left: 74px;
+    top: 232px;
+}
+.moment-text-design {
+    margin-left: 70px;
+    padding-right: 70px;
+}
+.moment-text h4 {
+    font-size: 32px;
+    line-height: 34px;
+    margin-bottom: 23px;
+    padding-bottom: 23px;
+}
+.moment-text p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.guests-sec {
+    padding: 130px 0px 90px;
+}
+.guests-col h3 {
+    font-size: 22px;
+    line-height: 26px;
+    margin-bottom: 16px;
+    padding-bottom: 20px;
+}
+.guests-col p {
+    font-size: 32px;
+    line-height: 47px;
+    max-width: 904px;
+    margin: 0px auto 55px;
+}
+.guests-col span {
+    font-size: 20px;
+    line-height: 20px;
+}
+.signup-text h4 {
+    font-size: 33px;
+    line-height: 40px;
+    margin-bottom: 23px;
+    padding-bottom: 23px;
+    margin-right: 20px;
+}
+.signup-text p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.signup-form .form-group .form-control {
+    min-height: 52px;
+    padding: 12px 23px;
+    font-size: 18px;
+}
+.signup-text {
+    max-width: 510px;
+    margin-left: 100px;
+}
+.signup-form {
+    max-width: 500px;
+    margin-right: 100px;
+    padding-top: 25px;
+}
+.signup-form-btn {
+    padding-top: 8px;
+}
+.signup-form .form-group {
+    margin-bottom: 10px;
+}
+.signup-form-btn .btn.btn-info {
+    height: 52px;
+    min-width: 195px;
+    padding: 3px 10px !important;
+    font-size: 18px;
+}
+.signup-sec {
+    padding: 80px 0px 65px;
+}
+.mainfooter {
+    padding: 100px 60px 30px;
+}
+.footercol-logo .footerbrand {
+    margin-left: 0px;
+    width: 250px;
+}
+.footercol-left .form-group .form-control {
+    min-height: 52px;
+    padding: 13px 23px;
+    font-size: 16px;
+}
+.footercol-left .form-group {
+    margin-bottom: 10px;
+}
+.footercol-btn .btn.btn-info {
+    height: 52px;
+    min-width: 196px;
+    padding: 3px 10px !important;
+    font-size: 16px;
+}
+.footercol-left .form-group textarea.form-control {
+    height: 82px;
+}
+.footercol-left.footercolcontact {
+    padding-left: 30px;
+}
+.footercol-left p {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 14px;
+}
+.footercol-left h3 {
+    font-size: 32px;
+    line-height: 42px;
+    margin-bottom: 11px;
+}
+.copyright-row {
+    padding-top: 108px;
+}
+.copyright-left p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.copyright-center ul li a {
+    font-size: 16px;
+    line-height: 26px;
+}
+.copyright-right p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.copyright-center ul li {
+    margin-right: 18px;
+}
+.copyright-center ul {
+    padding: 0px 0px 0px 30px;
+}     
+/*room*/
+.rooms-top-section .mainheading {
+    padding-bottom: 140px;
+}
+.roomsform-col .form-select {
+    height: 50px;
+    font-size: 17px;
+    padding: 9px 35px;
+}
+.rooms-formrow {
+    margin: 0px auto 40px;
+    gap: 25px;
+    max-width: 1164px;
+}
+.rooms-form h2 {
+    font-size: 34px;
+    line-height: 29px;
+    margin-bottom: 25px;
+}
+.rooms-form p {
+    font-size: 21px;
+    line-height: 28px;
+    margin-bottom: 39px;
+}
+.townhomes-heading h2 {
+    font-size: 34px;
+    line-height: 27px;
+    margin-bottom: 20px;
+}
+.townhomes-heading p {
+    font-size: 21px;
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+.darkbg {
+    height: 133px;
+}
+.lightbg {
+    top: 130px;
+    height: 164px;
+}
+.room-desc {
+    padding: 15px;
+    padding-left: 0px;
+}
+.room-desc h3 {
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 6px;
+}
+.room-desc h3 span img.img-fluid {
+    margin-left: 5px;
+    width: 17px;
+}
+.room-desc p {
+    font-size: 15px;
+    line-height: 25px;
+    margin-bottom: 30px;
+}
+.room-sec {
+    padding-bottom: 110px;
+}
+.room-sec.room-secp0 {
+    padding-bottom: 0px;
+}
+.townhomes-sec#townhomes {
+    padding-top: 110px;
+}
+.townhomes-sec {
+    padding-bottom: 154px;
+}
+/*unit*/
+.unit-topicon span img.img-fluid {
+    width: 40px;
+}
+.unit-top-section .mainheading p {
+    margin-bottom: 14px;
+}
+.top-section.unit-top-section {
+    padding: 46px 0px 106px;
+}
+.amenitiessec ul li {
+    font-size: 14px;
+    line-height: 18px;
+    padding-bottom: 19px;
+}
+.amenitiessec .moment-text h4 {
+    padding-right: 160px;
+}
+.amenitiessec .moment-text-design {
+    max-width: 340px;
+    margin: 0px auto;
+    padding: 0px;
+}
+.galleryslider-heading {
+    max-width: 1015px;
+    margin: 0px auto 40px;
+}
+.galleryslider-heading h2 {
+    font-size: 34px;
+    line-height: 32px;
+    margin-bottom: 13px;
+}
+.galleryslider-heading p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.galleryslider {
+    padding: 80px 0px 100px;
+}
+.view-mapsecimg {
+    padding-right: 10px;
+    padding-left: 60px;
+}
+.view-mapsec {
+    padding: 50px 0px 150px;
+}
+/*about*/
+.top-section.about-top-section {
+    padding: 40px 0px 50px;
+}
+.ourproperty-sec h2 {
+    font-size: 34px;
+    line-height: 35px;
+    margin-bottom: 34px;
+}
+.ourproperty-sec .col-md-12 {
+    max-width: 1230px;
+    margin: 0px auto;
+}
+.ourproperty-sec {
+    padding-bottom: 100px;
+}
+.ourproperty-sec::after {
+    height: 480px;
+}
+.historic-text-design h4 {
+    font-size: 32px;
+    line-height: 35px;
+    padding-bottom: 23px;
+    margin-bottom: 23px;
+}
+.historic-text-design p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.historic-text-design {
+    max-width: 501px;
+    margin: 0px auto;
+}
+/*amenities*/
+.top-section.rooms-top-section.amenities-top-section {
+    padding: 60px 0px 0px;
+}
+.rooms-top-section.amenities-top-section .mainheading {
+    padding-bottom: 100px;
+}
+.amenities-desc {
+    padding: 20px 15px;
+    padding-left: 0px;
+}
+.amenities-desc p {
+    font-size: 15px;
+    line-height: 25px;
+}
+.amenities-desc h3 {
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 12px;
+    height: 45px;
+}
+.amenities-desc.amenitieslast-col h3 {
+    margin: 0px;
+    height: 37px;
+}
+.amenities-card {
+    padding-bottom: 70px;
+}
+.amenities-sec .darkbg {
+    height: 226px;
+}
+.amenities-sec.exploremoab-sec .lightbg {
+    top: 200px;
+}
+/*gallery*/
+.gallery-sec .nav-tabs .nav-link {
+    min-width: 252px;
+    font-size: 17px;
+    height: 47px;
+    padding: 10px 20px;
+    margin: 0px 13px;
+}
+.gallery-sec .nav-tabs {
+    margin-bottom: 60px;
+    padding-top: 20px;
+}
+.collage-container {
+    margin: 0px -23px;
+}
+.collage-container li {
+    padding: 0px 14px;
+}
+.collage-item {
+    margin-bottom: 28px;
+}
+.gallery-sec::after {
+    height: 700px;
+}
+.gallery-sec {
+    padding: 0px 0px 40px 0px;
+}
+/*contact*/
+.contact-top-section .mainheading h1 {
+    margin-bottom: 50px;
+}
+.contact-info p {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 12px;
+}
+.contact-form .form-group .form-control {
+    font-size: 15px;
+    padding: 7px 35px;
+    min-height: 50px;
+}
+.contact-form .form-group {
+    margin-bottom: 18px;
+}
+.contact-form-btn .btn.btn-info {
+    min-width: 215px;
+    padding: 9px 15px 9px !important;
+    height: 48px;
+}
+.contact-form-btn {
+    padding-top: 0px;
+}
+.contactrow {
+    max-width: 1198px;
+}
+.top-section.contact-top-section {
+    padding: 50px 0px 90px;
+}
+.map-sec {
+    padding-bottom: 90px;
+}
+.map-sec::after {
+    height: 190px;
+}
+.contact-info {
+    padding-right: 20px;
+    padding-left: 70px;
+}
+.contact-form {
+    padding-left: 80px;
+}
+/*policies*/
+.faqdesign #accordion {
+    border-top: 1px solid #2C271D;
+}
+.faqdesign .card {
+    border-bottom: 1px solid #2C271D;
+}
+.faqdesign .card .card-header a.btn {
+    padding: 18px 50px 18px 0px;
+    font-size: 20px;
+}
+.faqdesign .card .card-header a.btn::after {
+    width: 24px;
+    height: 25px;
+    right: 10px;
+    top: 23px;
+    font-size: 28px;
+}
+.faqdesign .card .card-body {
+    padding: 0px 0px 20px 0px;
+    font-size: 18px;
+    line-height: 26px;
+}
+.faqdesign {
+    max-width: 1200px;
+}
+.top-section.policies-top-section {
+    padding: 60px 0px 100px 0px;
+}
+.discover-sec .discover-item {
+    padding-right: 8px;
+}
+.p-7 {
+    padding: 0px 14px;
+}
+.m-7 {
+    margin: 0px -23px;
+}
+.exploremoab-sec .btn.btn-info {
+    margin-top: 26px;
+}
+}
+/*1400-1599 End*/
+
+
+
+
+
+
+@media all and (min-width:1600px) and (max-width:1740px) {
+.container {
+    padding: 0px 30px;
+}      
+.hero-banner {
+    min-height: 950px;
+}
+.home-headerbrand {
+    width: 250px;
+}
+.home-headermenu {
+    right: 52px;
+    top: 45px;
+}
+.homeheader {
+    padding-top: 45px;
+}
+.sidenav {
+    width: 600px;
+}
+.sideheader {
+    padding: 34px 34px 0px 0px;
+}
+.sideheader a.closebtn {
+    width: 45px;
+}
+.sidenav-list .card .card-header a.btn {
+    padding: 25px 70px 25px 50px;
+    font-size: 28px;
+    line-height: 30px;
+}
+.sidenav-list .card .card-header a.btn::after {
+    line-height: 18px;
+    right: 47px;
+    top: 28px;
+    font-size: 34px;
+}
+.sidenav-list ul li a {
+    font-size: 16px;
+    line-height: 15px;
+    margin-bottom: 16px;
+}
+.sidenav-list .card .card-body {
+    padding: 0px 24px 15px 51px;
+}
+.contact-collapsed p {
+    font-size: 17px;
+    line-height: 28px;
+}
+.header-sec nav.navbar {
+    padding: 14px 0px;
+}
+.header-sec.navbar-fixed-top nav.navbar .navbar-brand {
+    width: 210px;
+}
+.header-sec nav.navbar .navbar-brand {
+    width: 210px;
+}
+.hero-banner.rooms-banner {
+    margin-top: 108px;
+}
+.header-sec.navbar-fixed-top nav.navbar {
+    padding: 14px 0px;
+}
+.header-sec.innerheader-fixed-top nav.navbar {
+    padding: 14px 0px;
+}
+.dasktopbookbtn a.nav-link {
+    padding: 12px 25px !important;
+    font-size: 20px;
+    line-height: 34px;
+    min-width: 273px;
+    height: 55px;
+    margin: 0px 42px 0px 21px !important; 
+}
+.header-sec nav.navbar .navbar-nav li.nav-item a.nav-link {
+    font-size: 20px;
+    padding: 14px 0px;
+    margin: 0px 26px;
+    line-height: 28px;
+}
+.nav-item .navbartoggler {
+    width: 45px;
+}
+.navbartoggler {
+    width: 45px;
+    display: inline-block;
+}
+.btn.btn-info.btn-blue {
+    padding: 10px 15px !important;
+    font-size: 17px;
+    line-height: 34px;
+    min-width: 245px;
+    height: 54px;
+}
+.contact-collapsed .card-body {
+    gap: 37px;
+    padding-bottom: 65px !important;
+}
+.top-section {
+    padding: 90px 0px 90px;
+}
+.mainheading {
+    max-width: 1045px;
+}
+.mainheading h1 {
+    font-size: 34px;
+    line-height: 46px;
+}
+.mainheading p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.tour-col {
+    padding: 0px 14px;
+}
+.tour-desc {
+    padding: 45px 90px 45px 0px;
+}
+.tour-desc h2 {
+    font-size: 32px;
+    line-height: 20px;
+    margin-bottom: 15px;
+}
+.tour-desc p {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 26px;
+    padding-right: 160px;
+}
+.btn.btn-info {
+    padding: 8px 15px !important;
+    font-size: 16px;
+    line-height: 29px;
+    min-width: 196px;
+    height: 46px;
+}
+.tour-row {
+    margin: 0px -12px;
+}
+.tour-sec {
+    padding-bottom: 47px;
+}
+.discover-sec {
+    padding: 110px 0px 90px;
+}
+.discover-heading {
+    padding-left: 0px;
+    padding-right: 78px;
+    margin-left: 0px;
+}
+.discover-heading h3 {
+    font-size: 40px;
+    line-height: 48px;
+}
+.discover-heading-desc p {
+    font-size: 16px;
+    line-height: 26px;
+    max-width: 610px;
+}
+.discover-sec #owl-demo1 {
+    padding-left: 30px;
+}
+.discover-row {
+    padding-bottom: 50px;
+}
+.discover-heading span {
+    width: 140px;
+}
+.discover-desc h3 {
+    font-size: 17px;
+    line-height: 23px;
+}
+.colorado-text-design {
+    margin-left: 70px;
+    padding-right: 70px;
+}
+.colorado-text h4 {
+    font-size: 32px;
+    line-height: 34px;
+    margin-bottom: 23px;
+    padding-bottom: 23px;
+}
+.colorado-text p {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 26px;
+}
+.colorado-slider .carousel-indicators {
+    left: 74px;
+    top: 232px;
+}
+.moment-text-design {
+    margin-left: 70px;
+    padding-right: 70px;
+}
+.moment-text h4 {
+    font-size: 32px;
+    line-height: 34px;
+    margin-bottom: 23px;
+    padding-bottom: 23px;
+}
+.moment-text p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.guests-sec {
+    padding: 130px 0px 90px;
+}
+.guests-col h3 {
+    font-size: 22px;
+    line-height: 30px;
+    margin-bottom: 16px;
+    padding-bottom: 20px;
+}
+.guests-col p {
+    font-size: 33px;
+    line-height: 51px;
+    max-width: 925px;
+    margin: 0px auto 55px;
+}
+.guests-col span {
+    font-size: 20px;
+    line-height: 20px;
+}
+.signup-text h4 {
+    font-size: 33px;
+    line-height: 39px;
+    margin-bottom: 23px;
+    padding-bottom: 23px;
+    margin-right: 20px;
+}
+.signup-text p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.signup-form .form-group .form-control {
+    min-height: 52px;
+    padding: 12px 23px;
+    font-size: 18px;
+}
+.signup-text {
+    max-width: 510px;
+    margin-left: 100px;
+}
+.signup-form {
+    max-width: 550px;
+    margin-right: 61px;
+    padding-top: 25px;
+}
+.signup-form-btn {
+    padding-top: 8px;
+}
+.signup-form .form-group {
+    margin-bottom: 10px;
+}
+.signup-form-btn .btn.btn-info {
+    height: 52px;
+    min-width: 195px;
+    padding: 3px 10px !important;
+    font-size: 18px;
+}
+.signup-sec {
+    padding: 80px 0px 65px;
+}
+.mainfooter {
+    padding: 100px 60px 30px;
+}
+.footercol-logo .footerbrand {
+    margin-left: 0px;
+    width: 250px;
+}
+.footercol-left .form-group .form-control {
+    min-height: 52px;
+    padding: 13px 23px;
+    font-size: 16px;
+}
+.footercol-left .form-group {
+    margin-bottom: 10px;
+}
+.footercol-btn .btn.btn-info {
+    height: 52px;
+    min-width: 196px;
+    padding: 3px 10px !important;
+    font-size: 16px;
+}
+.footercol-left .form-group textarea.form-control {
+    height: 82px;
+}
+.footercol-left.footercolcontact {
+    padding-left: 30px;
+}
+.footercol-left p {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 14px;
+}
+.footercol-left h3 {
+    font-size: 32px;
+    line-height: 40px;
+    margin-bottom: 11px;
+}
+.copyright-row {
+    padding-top: 108px;
+}
+.copyright-left p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.copyright-center ul li a {
+    font-size: 16px;
+    line-height: 26px;
+}
+.copyright-right p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.copyright-center ul li {
+    margin-right: 24px;
+}
+.copyright-center ul {
+    padding: 0px 0px 0px 30px;
+}     
+/*room*/
+.rooms-top-section .mainheading {
+    padding-bottom: 140px;
+}
+.roomsform-col .form-select {
+    height: 55px;
+    font-size: 19px;
+    padding: 11px 35px;
+}
+.rooms-formrow {
+    margin: 0px auto 40px;
+    gap: 30px;
+    max-width: 1300px;
+}
+.rooms-form h2 {
+    font-size: 41px;
+    line-height: 39px;
+    margin-bottom: 30px;
+}
+.rooms-form p {
+    font-size: 23px;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+.townhomes-heading h2 {
+    font-size: 41px;
+    line-height: 39px;
+    margin-bottom: 15px;
+}
+.townhomes-heading p {
+    font-size: 23px;
+    line-height: 24px;
+    margin-bottom: 28px;
+}
+.darkbg {
+    height: 133px;
+}
+.lightbg {
+    top: 130px;
+    height: 164px;
+}
+.room-desc {
+    padding: 18px;
+    padding-left: 0px;
+}
+.room-desc h3 {
+    font-size: 22px;
+    line-height: 26px;
+    margin-bottom: 10px;
+}
+.room-desc h3 span img.img-fluid {
+    margin-left: 5px;
+    width: 17px;
+}
+.room-desc p {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 30px;
+    padding-right: 43px;
+}
+.room-sec {
+    padding-bottom: 110px;
+}
+.room-sec.room-secp0 {
+    padding-bottom: 0px;
+}
+.townhomes-sec#townhomes {
+    padding-top: 110px;
+}
+.townhomes-sec {
+    padding-bottom: 174px;
+}
+/*unit*/
+.unit-topicon span img.img-fluid {
+    width: 45px;
+}
+.unit-top-section .mainheading p {
+    margin-bottom: 20px;
+}
+.unit-top-section .mainheading .btn.btn-info {
+    min-width: 231px;
+    margin-top: 14px;
+}
+.top-section.unit-top-section {
+    padding: 46px 0px 125px;
+}
+.amenitiessec ul li {
+    font-size: 16px;
+    line-height: 26px;
+    padding-bottom: 15px;
+}
+.amenitiessec .moment-text h4 {
+    padding-right: 216px;
+}
+.amenitiessec .moment-text-design {
+    max-width: 416px;
+    padding-right: 0px;
+}
+.galleryslider-heading h2 {
+    font-size: 41px;
+    line-height: 39px;
+    margin-bottom: 16px;
+}
+.galleryslider-heading p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.galleryslider-heading {
+    max-width: 1040px;
+    margin: 0px auto 40px;
+}
+.galleryslider {
+    padding: 80px 0px 100px;
+}
+.view-mapsec {
+    padding: 50px 0px 150px;
+}
+.view-mapsecimg {
+    padding-right: 15px;
+    padding-left: 80px;
+}
+/*about*/
+.ourproperty-sec .col-md-12 {
+    max-width: 1360px;
+    margin: 0px auto;
+}
+.ourproperty-sec h2 {
+    font-size: 41px;
+    line-height: 39px;
+    margin-bottom: 42px;
+}
+.ourproperty-sec::after {
+    height: 540px;
+}
+.ourproperty-sec {
+    padding-bottom: 130px;
+}
+.historic-text-design h4 {
+    font-size: 32px;
+    line-height: 38px;
+    padding-bottom: 23px;
+    margin-bottom: 23px;
+}
+.historic-text-design p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.historic-text-design {
+    max-width: 503px;
+    margin: 0px auto;
+}
+/*amenities*/
+.top-section.rooms-top-section.amenities-top-section {
+    padding: 70px 0px 0px 0px;
+}
+.rooms-top-section.amenities-top-section .mainheading {
+    padding-bottom: 120px;
+}
+.amenities-desc h3 {
+    font-size: 22px;
+    line-height: 26px;
+    margin-bottom: 15px;
+    height: 51px;
+}
+.amenities-desc p {
+    font-size: 16px;
+    line-height: 26px;
+    padding-right: 30px;
+}
+.amenities-desc.amenitieslast-col h3 {
+    margin: 0px;
+    height: 47px;
+}
+.amenities-desc {
+    padding: 30px 15px;
+    padding-left: 0px;
+}
+.amenities-card {
+    padding-bottom: 80px;
+}
+.amenities-sec.exploremoab-sec .lightbg {
+    top: 270px;
+}
+/*gallery*/
+.gallery-sec .nav-tabs .nav-link {
+    min-width: 270px;
+    font-size: 19px;
+    height: 50px;
+    padding: 10px 20px;
+    margin: 0px 15px;
+}
+.gallery-sec .nav-tabs {
+    margin-bottom: 60px;
+    padding-top: 20px;
+}
+.collage-container li {
+    padding: 0px 14px;
+}
+.collage-container {
+    margin: 0px -14px;
+}
+.collage-item {
+    margin-bottom: 28px;
+}
+.gallery-sec::after {
+    height: 810px;
+}
+/*contact*/
+.contact-info p {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 18px;
+}
+.contact-top-section .mainheading h1 {
+    margin-bottom: 40px;
+}
+.contactrow {
+    max-width: 1265px;
+}
+.contact-form-btn .btn.btn-info {
+    min-width: 221px;
+    padding: 8px 15px 8px !important;
+    height: 51px;
+    font-size: 17px;
+}
+.contact-form .form-group .form-control {
+    font-size: 17px;
+    padding: 8px 35px;
+    min-height: 53px;
+}
+.top-section.contact-top-section {
+    padding: 60px 0px 90px;
+}
+.map-sec {
+    padding-bottom: 100px;
+}
+.map-sec::after {
+    height: 240px;
+}
+/*polices*/
+.faqdesign .card .card-header a.btn {
+    padding: 18px 50px 18px 0px;
+    font-size: 22px;
+}
+.faqdesign .card .card-header a.btn::after {
+    width: 24px;
+    height: 25px;
+    right: 10px;
+    top: 23px;
+    font-size: 28px;
+}
+.faqdesign .card .card-body {
+    padding: 0px 0px 20px 0px;
+    font-size: 18px;
+    line-height: 26px;
+}
+.faqdesign {
+    max-width: 1400px;
+}
+.top-section.policies-top-section {
+    padding: 60px 0px 120px 0px;
+}
+.discover-sec .discover-item {
+    padding-right: 8px;
+}
+.p-7 {
+    padding: 0px 14px;
+}
+.m-7 {
+    margin: 0px -12px;
+}
+.exploremoab-sec .btn.btn-info {
+    margin-top: 26px;
+}
+}
+/*1600-1740 End*/
+
+
+
+
+
+
+
+
+
+@media all and (min-width:1741px) and (max-width:1910px) {
+.container {
+    padding: 0px 40px;
+} 
+.sidenav-list .card .card-header a.btn {
+    font-size: 44px
+}
+.sidenav {
+    width: 700px;
+}
+.colorado-slider .carousel-indicators {
+    top: 309px;
+}
+.copyright-center ul {
+    padding: 0px 0px 0px 50px;
+}
+.copyright-center ul li {
+    margin-right: 19px;
+}
+.header-sec nav.navbar {
+    padding: 15px 0px;
+}
+.header-sec.innerheader-fixed-top nav.navbar .navbar-brand {
+    width: 210px;
+}
+.header-sec nav.navbar .navbar-brand {
+    width: 210px;
+}
+.hero-banner.rooms-banner {
+    margin-top: 108px;
+}
+.contact-collapsed .card-body {
+    gap: 36px;
+}
+.view-mapsecimg {
+    padding-left: 110px;
+}
+.historic-text-design {
+    margin: 0px auto;
+}
+.contact-form-btn .btn.btn-info {
+    padding: 14px 15px 17px !important;
+}
+.faqdesign {
+    max-width: 1500px;
+}
+.faqdesign .card .card-header a.btn {
+    padding: 18px 50px 18px 0px;
+    font-size: 26px;
+}
+.faqdesign .card .card-header a.btn::after {
+    right: 14px;
+    top: 27px;
+}
+.signup-form {
+    max-width: 575px;
+    margin-right: 90px;
+    padding-top: 15px;
+}
+.discover-heading {
+    padding-left: 0px;
+    padding-right: 25px;
+    margin-left: -2px;
+}
+.exploremoab-sec .btn.btn-info {
+    margin-top: 30px;
+}
+}
+/*1741-1910 End*/
+

@@ -1,0 +1,18 @@
+{
+  "name": "moabsprings-frontend",
+  "version": "1.0.0",
+  "description": "Moab Springs Ranch — static multi-page site build pipeline",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev":     "vite",
+    "build":   "vite build && node scripts/fix-paths.cjs && node scripts/compress-images.cjs",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite":                    "^5.4.0",
+    "vite-plugin-compression": "^0.5.1",
+    "vite-plugin-static-copy": "^1.0.0",
+    "sharp":                   "^0.33.0"
+  }
+}

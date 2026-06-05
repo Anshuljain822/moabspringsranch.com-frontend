@@ -1,0 +1,71 @@
+name: Deploy Staging
+
+on:
+  push:
+    branches: [staging]
+
+jobs:
+  build-and-deploy:
+    name: Build → Deploy → staging.moabspringsranch.com
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build (inject header/footer, minify CSS/JS, compress images, gzip/brotli)
+        run: npm run build
+
+      - name: Show build output
+        run: |
+          echo "── Total ────────────────"
+          du -sh dist/
+          echo "── HTML pages ───────────"
+          du -sh dist/*.html 2>/dev/null || true
+          echo "── CSS/JS ───────────────"
+          du -sh dist/css/* dist/js/* dist/assets/* 2>/dev/null || true
+
+      - name: Verify header/footer injected in HTML
+        run: |
+          echo "── Checking index.html for header injection ──"
+          grep -c "navbar_top" dist/index.html && echo "✅ Header present" || echo "❌ Header missing"
+          grep -c "mainfooter" dist/index.html && echo "✅ Footer present" || echo "❌ Footer missing"
+          grep -c "HEADER_PLACEHOLDER\|FOOTER_PLACEHOLDER" dist/index.html && echo "❌ Placeholders not replaced!" || echo "✅ No placeholders remaining"
+
+      - name: Deploy dist/ to staging server
+        uses: burnett01/rsync-deployments@7.0.1
+        with:
+          switches: -avzr --delete --checksum
+          path: dist/
+          remote_path: ${{ secrets.STAGING_PATH }}
+          remote_host: ${{ secrets.SSH_HOST }}
+          remote_port: ${{ secrets.SSH_PORT }}
+          remote_user: ${{ secrets.SSH_USER }}
+          remote_key:  ${{ secrets.SSH_PRIVATE_KEY }}
+
+      - name: Purge Cloudflare cache (staging)
+        run: |
+          RESPONSE=$(curl -s -X POST \
+            "https://api.cloudflare.com/client/v4/zones/${{ secrets.CF_ZONE_ID_STAGING }}/purge_cache" \
+            -H "Authorization: Bearer ${{ secrets.CF_API_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            --data '{"purge_everything":true}')
+          echo "$RESPONSE"
+          echo "$RESPONSE" | grep -q '"success":true' && echo "✅ Cloudflare cache purged" || { echo "❌ Purge failed"; exit 1; }
+
+      - name: Done
+        run: |
+          echo "✅ Staging deployed and cache purged"
+          echo "Branch : ${{ github.ref_name }}"
+          echo "Commit : ${{ github.sha }}"
+          echo "By     : ${{ github.actor }}"
+          echo "Time   : $(date -u)"
