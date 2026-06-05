@@ -705,6 +705,12 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
 .mainfooter {
     padding: 150px 90px 50px;
 }
+.mainfooter p a{
+    color: #2C271D;
+}
+.mainfooter p a:hover{
+    color: #935248;
+}
 .footercol-left h3 {
     font-size: 35px;
     line-height: 51px;
@@ -717,6 +723,7 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
     color: #2C271D;
     margin-bottom: 26px;
 }
+
 .footercol-left .form-group .form-control {
     min-height: 62px;
     border-radius: 0px;
