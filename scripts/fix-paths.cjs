@@ -62,14 +62,15 @@ htmlFiles.forEach(function(file) {
     }
   );
 
-  // Restore .html to internal page links: href="/rooms" → href="/rooms.html"
-  // Skips: href="/", href="#", href="javascript:", href="https://", href="/images/", href="/css/", href="/js/"
+  // Restore .html to internal page links including anchors:
+  // /rooms → /rooms.html
+  // /rooms#bungalows → /rooms.html#bungalows
   html = html.replace(
-    /href="\/([a-z0-9-]+)"/g,
-    function(m, page) {
+    /href="\/([a-z0-9-]+)(#[^"]*)?"/g,
+    function(m, page, anchor) {
       if (pageNames.indexOf(page) !== -1) {
         totalLinks++;
-        return 'href="/' + page + '.html"';
+        return 'href="/' + page + '.html' + (anchor || '') + '"';
       }
       return m;
     }
