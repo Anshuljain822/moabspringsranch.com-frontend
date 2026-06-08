@@ -144,10 +144,10 @@ export default defineConfig({
     rollupOptions: {
       input: {
         index:       resolve(__dirname, 'index.html'),
-        rooms:       resolve(__dirname, 'rooms.html'),
+        lodging:       resolve(__dirname, 'lodging.html'),
         unit:        resolve(__dirname, 'unit.html'),
-        about:       resolve(__dirname, 'about.html'),
-        amenities:   resolve(__dirname, 'amenities.html'),
+        theranch:       resolve(__dirname, 'the-ranch.html'),
+        ranchfeatures:   resolve(__dirname, 'ranch-features.html'),
         gallery:     resolve(__dirname, 'gallery.html'),
         exploremoab: resolve(__dirname, 'exploremoab.html'),
         contact:     resolve(__dirname, 'contact.html'),

@@ -59,9 +59,9 @@ a {
     padding-top: 50px;
     z-index: 1;
 }
-.home-headerlogo {
+/* .home-headerlogo {
     text-align: center;
-}
+} */
 .home-headerbrand {
     display: inline-block;
 }
@@ -301,6 +301,13 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
     color: #FFFFFF;
     margin: 0px;
 }
+.contact-collapsed p a{
+ color: #FFFFFF;
+}
+.contact-collapsed p a:hover{
+ color: #b9a790;
+}
+
 .btn.btn-info.btn-blue {
     background: #5C8E96 !important;
     border: 1px solid #F8F5F2;
@@ -345,7 +352,9 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
 
 
 
-
+.hero-banner .video-container{
+      min-height: 1074px;
+}
 
 .hero-banner {
     min-height: 1074px;
@@ -373,6 +382,13 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
     line-height: 30px;
     color: #2C271D;
     margin: 0px;
+}
+.mainheading p a{
+    color: #2C271D; 
+    transition: all 0.3s;
+}
+.mainheading p a:hover{
+    color: #935248; 
 }
 .tour-sec {
     background: #fff;
@@ -524,7 +540,7 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
     max-width: 535px;
     margin-left: 102px;
 }
-.colorado-text h4 {
+.colorado-text h3 {
     font-size: 33px;
     line-height: 35px;
     color: #F8F5F2;
@@ -596,7 +612,7 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
     max-width: 670px;
     margin-left: 88px;
 }
-.moment-text h4 {
+.moment-text h2 {
     font-size: 33px;
     line-height: 35px;
     color: #2C271D;
@@ -616,7 +632,7 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
     text-align: center;
     padding: 244px 0px 130px;
 }
-.guests-col h3 {
+.guests-col h2 {
     font-size: 34px;
     line-height: 36px;
     margin-bottom: 20px;
@@ -650,7 +666,7 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
     margin: 0px;
     color: #F8F5F2;
 }
-.signup-text h4 {
+.signup-text h2 {
     font-size: 33px;
     line-height: 35px;
     color: #F8F5F2;
@@ -825,6 +841,12 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
 .rooms-top-section .mainheading p {
     color: #FFFFFF;
 }
+.rooms-top-section .mainheading p a{
+    color: #FFFFFF;
+}
+.rooms-top-section .mainheading p a:hover{
+    color: #935248;
+}
 .rooms-formrow {
     margin: 0px auto 46px;
     display: flex;
@@ -851,7 +873,7 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
     text-transform: uppercase;
 }
 .rooms-form p {
-    font-size: 26px;
+    font-size: 20px;
     line-height: 30px;
     color: #FFFFFF;
     text-align: center;
@@ -952,7 +974,7 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
     letter-spacing: 3px;
 }
 .townhomes-heading p {
-    font-size: 26px;
+    font-size: 20px;
     line-height: 30px;
     color: #2C271D;
     margin-bottom: 30px;
@@ -985,14 +1007,14 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
     padding: 40px 20px;
     padding-left: 0px;
 }
-.amenities-desc h3 {
+.amenities-desc h2 {
     font-size: 25px;
     line-height: 29px;
     margin-bottom: 23px;
     color: #2C271D;
     height: 58px;
 }
-.amenities-desc.amenitieslast-col h3 {
+.amenities-desc.amenitieslast-col h2 {
     margin: 0px;
 }
 .amenities-desc p {
@@ -1027,11 +1049,11 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
     z-index: -1;
 }
 .ourproperty-sec h2 {
-    font-size: 46px;
-    line-height: 45px;
+    font-size: 39px;
+    line-height: 36px;
     color: #2C271D;
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     letter-spacing: 3px;
 }
 .historic-sec {
@@ -1058,7 +1080,7 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
     max-width: 630px;
     margin-left: 120px;
 }
-.historic-text-design h4 {
+.historic-text-design h2 {
     font-size: 33px;
     line-height: 35px;
     color: #fff;
@@ -1327,7 +1349,7 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
 .amenitiessec .moment-row {
     background: #646D5F;
 }
-.amenitiessec .moment-text h4 {
+.amenitiessec .moment-text h2 {
     color: #fff;
     border-bottom: 1px solid #fff;
     padding-right: 295px;
@@ -1389,6 +1411,16 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
 }
 .exploremoab-sec .btn.btn-info {
     margin-top: 30px;
+}
+.footer-logo-maon-box ul {
+	display: flex;
+	gap: 30px;
+	list-style: none;
+	margin-top: 25px;
+	/* padding: 0; */
+	margin: anchor-size;
+	justify-content: center;
+	max-width: 328px;
 }
 /*
 .sideheader .navbar-brand.mobilelogo {
@@ -1461,20 +1493,10 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
     width: 20px;
     font-size: 20px;
     vertical-align: middle;
+}*/
+
+
+.ourproperty-sec p{
+  color: #2C271D;
 }
-
-
-
-
-
-
-
-
-
-
-*/
-
-
-
-
 

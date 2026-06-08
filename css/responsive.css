@@ -36,6 +36,9 @@
 .homeheader {
     padding-top: 66px;
 }
+.home-headerlogo{
+    text-align: center;
+}
 .sideheader {
     padding: 23px 18px 0px 0px;
 }
@@ -127,6 +130,9 @@
 }
 .hero-banner {
     min-height: 778px;
+}
+.hero-banner .video-container{
+      min-height: 778px;
 }
 .mainheading h1 {
     font-size: 24px;
@@ -229,7 +235,7 @@
     line-height: 20px;
     margin-bottom: 27px;
 }
-.colorado-text h4 {
+.colorado-text h3 {
     font-size: 25px;
     line-height: 27px;
     margin-bottom: 15px;
@@ -260,7 +266,7 @@
     order: 1 !important;
     padding: 84px 35px 70px;
 }
-.moment-text h4 {
+.moment-text h2 {
     font-size: 24px;
     line-height: 27px;
     padding-bottom: 15px;
@@ -270,7 +276,7 @@
     font-size: 15px;
     line-height: 20px;
 }
-.guests-col h3 {
+.guests-col h2 {
     font-size: 15px;
     line-height: 18px;
     margin-bottom: 15px;
@@ -285,7 +291,7 @@
     font-size: 15px;
     line-height: 20px;
 }
-.signup-text h4 {
+.signup-text h2 {
     font-size: 24px;
     line-height: 30px;
     margin-bottom: 15px;
@@ -461,7 +467,7 @@
     margin-bottom: 7px;
 }
 .townhomes-heading p {
-    font-size: 14px;
+    font-size: 15px;
     line-height: 20px;
     margin-bottom: 23px;
 }
@@ -537,7 +543,7 @@
     width: 30px;
     margin: 0px 4px;
 }
-.amenitiessec .moment-text h4 {
+.amenitiessec .moment-text h2 {
     padding-right: 55px;
 }
 .amenitiessec ul li {
@@ -594,8 +600,8 @@
     padding: 35px 0px 90px;
 }
 .ourproperty-sec h2 {
-    font-size: 25px;
-    line-height: 34px;
+    font-size: 24px;
+    line-height: 28px;
     width: 300px;
     margin: 0px auto 26px;
 }
@@ -618,7 +624,7 @@
     margin-left: 0px;
     padding: 100px 35px 90px;
 }
-.historic-text-design h4 {
+.historic-text-design h2 {
     font-size: 24px;
     line-height: 27px;
     padding-bottom: 15px;
@@ -651,13 +657,13 @@
     padding: 10px;
     padding-left: 0px;
 }
-.amenities-desc h3 {
+.amenities-desc h2 {
     font-size: 20px;
     line-height: 23px;
     margin-bottom: 10px;
     height: auto;
 }
-.amenities-desc.amenitieslast-col h3 {
+.amenities-desc.amenitieslast-col h2 {
     margin-bottom: 10px;
 }
 .amenities-desc p {
@@ -811,6 +817,10 @@
 .exploremoab-sec .btn.btn-info {
     margin-top: 20px;
 }
+  .footer-logo-maon-box ul{
+        justify-content: center;
+        padding: 0px;
+    }
 }
 
 /*320-767 End*/
@@ -855,6 +865,9 @@
 .home-headerbrand {
     width: 262px;
     padding-top: 28px;
+}
+.home-headerlogo{
+    text-align: center;
 }
 .mobile-bookbtn .btn.btn-info {
     padding: 24px 23px !important;
@@ -950,7 +963,7 @@
 .guests-sec {
     padding: 74px 0px 130px;
 }
-.guests-col h3 {
+.guests-col h2 {
     font-size: 29px;
     line-height: 37px;
     margin-bottom: 23px;
@@ -1101,7 +1114,7 @@
 .amenitiessec .moment-text {
     padding: 152px 0px;
 }
-.amenitiessec .moment-text h4 {
+.amenitiessec .moment-text h2 {
     padding-right: 211px;
 }
 .galleryslider-heading {
@@ -1157,10 +1170,10 @@
 .amenities-sec .darkbg {
     height: 430px;
 }
-.amenities-desc.amenitieslast-col h3 {
+.amenities-desc.amenitieslast-col h2 {
     margin-bottom: 23px;
 }
-.amenities-desc h3 {
+.amenities-desc h2 {
     height: auto;
 }
 /*gallery*/
@@ -1251,6 +1264,10 @@
 .exploremoab-sec .btn.btn-info {
     margin-top: 30px;
 }
+  .footer-logo-maon-box ul{
+        justify-content: center;
+        padding: 0px;
+    }
 }
 
 /*768-1199 End*/
@@ -1267,13 +1284,13 @@
 
 
 @media all and (min-width:768px) and (max-width: 1024px) {
-
+ 
 }
 
 /*768-1024 End*/
 
 @media all and (min-width:1025px) and (max-width: 1199px) {
-
+  
 }
 /*1025-1199 End*/
 
@@ -1289,6 +1306,9 @@
 }      
 .hero-banner {
     min-height: 900px;
+}
+.hero-banner .video-container{
+      min-height: 900px;
 }
 .home-headerbrand {
     width: 250px;
@@ -1460,7 +1480,7 @@
     margin-left: 70px;
     padding-right: 70px;
 }
-.colorado-text h4 {
+.colorado-text h3 {
     font-size: 28px;
     line-height: 35px;
     margin-bottom: 15px;
@@ -1484,7 +1504,7 @@
     margin-left: 70px;
     padding-right: 70px;
 }
-.moment-text h4 {
+.moment-text h2 {
     font-size: 28px;
     line-height: 33px;
     margin-bottom: 15px;
@@ -1497,7 +1517,7 @@
 .guests-sec {
     padding: 130px 0px 80px;
 }
-.guests-col h3 {
+.guests-col h2 {
     font-size: 20px;
     line-height: 28px;
     margin-bottom: 12px;
@@ -1513,7 +1533,7 @@
     font-size: 16px;
     line-height: 23px;
 }
-.signup-text h4 {
+.signup-text h2 {
     font-size: 28px;
     line-height: 37px;
     margin-bottom: 15px;
@@ -1626,8 +1646,8 @@
     max-width: 1064px;
 }
 .rooms-form p {
-    font-size: 18px;
-    line-height: 30px;
+           font-size: 14px;
+        line-height: 24px;
     margin-bottom: 42px;
 }
 .rooms-form h2 {
@@ -1675,8 +1695,8 @@
     margin-bottom: 15px;
 }
 .townhomes-heading p {
-    font-size: 18px;
-    line-height: 20px;
+    font-size: 14px;
+    line-height: 24px;
     margin-bottom: 30px;
 }
 .townhomes-sec {
@@ -1697,7 +1717,7 @@
     line-height: 18px;
     padding-bottom: 19px;
 }
-.amenitiessec .moment-text h4 {
+.amenitiessec .moment-text h2 {
     padding-right: 160px;
 }
 .amenitiessec .moment-text-design {
@@ -1733,9 +1753,9 @@
     padding: 40px 0px 50px;
 }
 .ourproperty-sec h2 {
-    font-size: 30px;
-    line-height: 32px;
-    margin-bottom: 34px;
+   font-size: 28px;
+    line-height: 23px;
+    margin-bottom: 15px;
 }
 .ourproperty-sec .col-md-12 {
     max-width: 1150px;
@@ -1747,7 +1767,7 @@
 .ourproperty-sec::after {
     height: 450px;
 }
-.historic-text-design h4 {
+.historic-text-design h2 {
     font-size: 28px;
     line-height: 33px;
     padding-bottom: 15px;
@@ -1777,13 +1797,13 @@
     line-height: 24px;
     padding-right: 30px;
 }
-.amenities-desc h3 {
+.amenities-desc h2 {
     font-size: 18px;
     line-height: 24px;
     margin-bottom: 9px;
     height: 45px;
 }
-.amenities-desc.amenitieslast-col h3 {
+.amenities-desc.amenitieslast-col h2 {
     margin: 0px;
     height: 37px;
 }
@@ -1921,6 +1941,9 @@
 }      
 .hero-banner {
     min-height: 950px;
+}
+.hero-banner .video-container{
+      min-height: 950px;
 }
 .home-headerbrand {
     width: 250px;
@@ -2089,7 +2112,7 @@
     margin-left: 70px;
     padding-right: 70px;
 }
-.colorado-text h4 {
+.colorado-text h3 {
     font-size: 32px;
     line-height: 34px;
     margin-bottom: 23px;
@@ -2108,7 +2131,7 @@
     margin-left: 70px;
     padding-right: 70px;
 }
-.moment-text h4 {
+.moment-text h2 {
     font-size: 32px;
     line-height: 34px;
     margin-bottom: 23px;
@@ -2121,7 +2144,7 @@
 .guests-sec {
     padding: 130px 0px 90px;
 }
-.guests-col h3 {
+.guests-col h2 {
     font-size: 22px;
     line-height: 26px;
     margin-bottom: 16px;
@@ -2137,7 +2160,7 @@
     font-size: 20px;
     line-height: 20px;
 }
-.signup-text h4 {
+.signup-text h2 {
     font-size: 33px;
     line-height: 40px;
     margin-bottom: 23px;
@@ -2159,7 +2182,7 @@
 }
 .signup-form {
     max-width: 500px;
-    margin-right: 100px;
+    margin-right: 58px;
     padding-top: 25px;
 }
 .signup-form-btn {
@@ -2255,8 +2278,8 @@
     margin-bottom: 25px;
 }
 .rooms-form p {
-    font-size: 21px;
-    line-height: 28px;
+        font-size: 16px;
+        line-height: 26px;
     margin-bottom: 39px;
 }
 .townhomes-heading h2 {
@@ -2265,8 +2288,8 @@
     margin-bottom: 20px;
 }
 .townhomes-heading p {
-    font-size: 21px;
-    line-height: 20px;
+    font-size: 16px;
+    line-height: 26px;
     margin-bottom: 30px;
 }
 .darkbg {
@@ -2321,7 +2344,7 @@
     line-height: 18px;
     padding-bottom: 19px;
 }
-.amenitiessec .moment-text h4 {
+.amenitiessec .moment-text h2 {
     padding-right: 160px;
 }
 .amenitiessec .moment-text-design {
@@ -2357,9 +2380,9 @@
     padding: 40px 0px 50px;
 }
 .ourproperty-sec h2 {
-    font-size: 34px;
-    line-height: 35px;
-    margin-bottom: 34px;
+   font-size: 30px;
+    line-height: 24px;
+    margin-bottom: 15px;
 }
 .ourproperty-sec .col-md-12 {
     max-width: 1230px;
@@ -2371,7 +2394,7 @@
 .ourproperty-sec::after {
     height: 480px;
 }
-.historic-text-design h4 {
+.historic-text-design h2 {
     font-size: 32px;
     line-height: 35px;
     padding-bottom: 23px;
@@ -2400,13 +2423,13 @@
     font-size: 15px;
     line-height: 25px;
 }
-.amenities-desc h3 {
+.amenities-desc h2 {
     font-size: 20px;
     line-height: 24px;
     margin-bottom: 12px;
     height: 45px;
 }
-.amenities-desc.amenitieslast-col h3 {
+.amenities-desc.amenitieslast-col h2 {
     margin: 0px;
     height: 37px;
 }
@@ -2545,6 +2568,9 @@
 }      
 .hero-banner {
     min-height: 950px;
+}
+.hero-banner .video-container{
+      min-height: 950px;
 }
 .home-headerbrand {
     width: 250px;
@@ -2716,7 +2742,7 @@
     margin-left: 70px;
     padding-right: 70px;
 }
-.colorado-text h4 {
+.colorado-text h3 {
     font-size: 32px;
     line-height: 34px;
     margin-bottom: 23px;
@@ -2735,7 +2761,7 @@
     margin-left: 70px;
     padding-right: 70px;
 }
-.moment-text h4 {
+.moment-text h2 {
     font-size: 32px;
     line-height: 34px;
     margin-bottom: 23px;
@@ -2748,7 +2774,7 @@
 .guests-sec {
     padding: 130px 0px 90px;
 }
-.guests-col h3 {
+.guests-col h2 {
     font-size: 22px;
     line-height: 30px;
     margin-bottom: 16px;
@@ -2764,7 +2790,7 @@
     font-size: 20px;
     line-height: 20px;
 }
-.signup-text h4 {
+.signup-text h2 {
     font-size: 33px;
     line-height: 39px;
     margin-bottom: 23px;
@@ -2882,8 +2908,8 @@
     margin-bottom: 30px;
 }
 .rooms-form p {
-    font-size: 23px;
-    line-height: 30px;
+    font-size: 16px;
+    line-height: 26px;
     margin-bottom: 50px;
 }
 .townhomes-heading h2 {
@@ -2892,8 +2918,8 @@
     margin-bottom: 15px;
 }
 .townhomes-heading p {
-    font-size: 23px;
-    line-height: 24px;
+    font-size: 16px;
+    line-height: 26px;
     margin-bottom: 28px;
 }
 .darkbg {
@@ -2953,7 +2979,7 @@
     line-height: 26px;
     padding-bottom: 15px;
 }
-.amenitiessec .moment-text h4 {
+.amenitiessec .moment-text h2 {
     padding-right: 216px;
 }
 .amenitiessec .moment-text-design {
@@ -2989,9 +3015,9 @@
     margin: 0px auto;
 }
 .ourproperty-sec h2 {
-    font-size: 41px;
-    line-height: 39px;
-    margin-bottom: 42px;
+    font-size: 32px;
+    line-height: 20px;
+    margin-bottom: 20px;
 }
 .ourproperty-sec::after {
     height: 540px;
@@ -2999,7 +3025,7 @@
 .ourproperty-sec {
     padding-bottom: 130px;
 }
-.historic-text-design h4 {
+.historic-text-design h2 {
     font-size: 32px;
     line-height: 38px;
     padding-bottom: 23px;
@@ -3020,7 +3046,7 @@
 .rooms-top-section.amenities-top-section .mainheading {
     padding-bottom: 120px;
 }
-.amenities-desc h3 {
+.amenities-desc h2 {
     font-size: 22px;
     line-height: 26px;
     margin-bottom: 15px;
@@ -3031,7 +3057,7 @@
     line-height: 26px;
     padding-right: 30px;
 }
-.amenities-desc.amenitieslast-col h3 {
+.amenities-desc.amenitieslast-col h2 {
     margin: 0px;
     height: 47px;
 }
@@ -3217,3 +3243,9 @@
 }
 /*1741-1910 End*/
 
+@media all and (min-width:1800px) and (max-width:1920px) {
+
+.signup-form {
+	margin-right: 50px;
+}
+}

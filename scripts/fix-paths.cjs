@@ -63,8 +63,8 @@ htmlFiles.forEach(function(file) {
   );
 
   // Restore .html to internal page links including anchors:
-  // /rooms → /rooms.html
-  // /rooms#bungalows → /rooms.html#bungalows
+  // /rooms → /lodging
+  // /rooms#bungalows → /lodging#bungalows
   html = html.replace(
     /href="\/([a-z0-9-]+)(#[^"]*)?"/g,
     function(m, page, anchor) {
