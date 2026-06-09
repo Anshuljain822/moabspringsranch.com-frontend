@@ -1122,6 +1122,11 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
     background: #863C32 !important;
     color: #fff !important;
 }
+.gallery-sec .nav-tabs .nav-link.active{
+    border: 1px solid #863C32 !important;
+    background: #863C32 !important;
+    color: #fff !important;
+}
 .collage-container {
     margin: 0px -23px;
     padding: 0px;
