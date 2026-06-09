@@ -149,10 +149,10 @@ export default defineConfig({
         theranch:       resolve(__dirname, 'the-ranch.html'),
         ranchfeatures:   resolve(__dirname, 'ranch-features.html'),
         gallery:     resolve(__dirname, 'gallery.html'),
-        exploremoab: resolve(__dirname, 'exploremoab.html'),
+        exploremoab: resolve(__dirname, 'explore-moab.html'),
         contact:     resolve(__dirname, 'contact.html'),
-        policies:    resolve(__dirname, 'policies.html'),
-        resortcam:   resolve(__dirname, 'resortcam.html'),
+        faq:    resolve(__dirname, 'faq.html'),
+        webcam:   resolve(__dirname, 'webcam.html'),
       },
       output: {
         assetFileNames: '[name][extname]',

@@ -502,7 +502,7 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
     height: 1px;
     background: #2C271D;
 }
-.discover-heading h3 {
+.discover-heading h2 {
     font-size: 50px;
     line-height: 77px;
     color: #2C271D;
@@ -1253,6 +1253,9 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
 .mapbox img.img-fluid {
     width: 100%;
 }
+.mapbox  {
+   height: 871px;
+}
 
 /*pollicies*/
 .faqdesign .card {
@@ -1500,3 +1503,23 @@ li.nav-item.dasktopbookbtn a.nav-link:hover::after{
   color: #2C271D;
 }
 
+.faqdesign .card .card-body p a, .faqdesign .card .card-body ul li a{
+  color: #2C271D;
+}
+
+.faqdesign .card .card-body p a:hover, .faqdesign .card .card-body ul li a:hover{
+  color: #935248;
+}
+
+.policies-top-section p a{
+   color: #2C271D; 
+}
+.policies-top-section p a:hover{
+    color: #935248;
+}
+.contact-info p a{
+      color: #2C271D; 
+}
+.contact-info p a:hover{
+      color: #935248;
+}
